@@ -6,6 +6,6 @@ The official code for JefiFast: Accelerating Jefimenko's Equation with Memory-Ce
 
 `numpy`: 2.2.6
 
-`numba`: 0.61.1
+`numba`: 0.62.1
 
 You may try other versions since we only use the basic features of each package.
